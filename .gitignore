@@ -5,6 +5,7 @@
 /dist-server
 /tmp
 /out-tsc
+.angulardoc.json
 
 # dependencies
 /node_modules
